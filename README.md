@@ -143,5 +143,5 @@ We sincerely thank the following individuals and organizations for their promoti
 
 [![Stargazers over time](https://starchart.cc/dw-dengwei/daily-arXiv-ai-enhanced.svg?variant=adaptive)](https://starchart.cc/dw-dengwei/daily-arXiv-ai-enhanced)
 
-# Buy me a coffee 
+# Buy me a coffee
 [here](./buy-me-a-coffee/README.md)
